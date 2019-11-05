@@ -1,0 +1,3 @@
+# Flutter\_Page\_Layout_Practice
+
+This repository will contain 100 exercises of the layout of flutter page. The main directory of the repository contains two folders. The folder named `practice` stores the sample layout of the target page, as well as the necessary text explanation. The folder named `answer` stores the corresponding instance code. All exercise questions and answers are labeled in the order of natural numbers, and exercise questions and answer numbers correspond one by one.
